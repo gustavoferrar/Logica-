@@ -1,0 +1,15 @@
+String Endereco;
+int telefone;
+int Salario;
+int cpf;
+int preco;
+int temperatura;
+nao casado;
+sim vacinado;
+int preco_gasolina;
+int litros_gasolina;
+int preco_pao;
+int total_compras;
+int idade;
+int data_contrato;
+String nivel_escolaridade;
